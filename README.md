@@ -12,7 +12,7 @@ And then you can access the vertices/faces of the mesh as follows:
     
 That's pretty much it.
 
-![](https://github.com/mikolalysenko/bunny/images/bunny.png)
+![](https://raw.github.com/mikolalysenko/bunny/master/images/bunny.png)
 
 Credits
 =======
