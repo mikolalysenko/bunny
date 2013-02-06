@@ -1,0 +1,24 @@
+{
+  "name": "bunny",
+  "version": "0.0.0",
+  "description": "The Stanford bunny",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/bunny.git"
+  },
+  "keywords": [
+    "bunny",
+    "3d",
+    "model",
+    "scan",
+    "test",
+    "data",
+    "mesh",
+    "triangle"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "Public Domain",
+  "readmeFilename": "README.md",
+  "gitHead": "d70c5da8e02ee56d20ec3360e0859f37fada81ba"
+}
