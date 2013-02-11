@@ -8,11 +8,11 @@ And then you can access the vertices/faces of the mesh as follows:
 
     var bunny = require("bunny");
     var positions = bunny.positions;
-    var faces = bunny.faces;
+    var cells = bunny.cells;
     
 That's pretty much it.
 
-![](https://raw.github.com/mikolalysenko/bunny/master/images/bunny.png)
+<img src="https://raw.github.com/mikolalysenko/bunny/master/images/bunny.png" width=50%>
 
 Credits
 =======
